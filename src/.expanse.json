@@ -504,7 +504,8 @@
       "order": 0.7059982439285579,
       "shadow": {
         "castShadow": true
-      }
+      },
+      "hidden": true
     }
   },
   "runtimeVersion": {
