@@ -213,7 +213,6 @@
         }
       },
       "name": "Face Mesh",
-      "hidden": true,
       "order": 0.3978780493894112
     },
     "93db3a7c-6685-4c13-8084-ef8add915ecf": {
@@ -253,9 +252,9 @@
     "f9357ed9-57b6-49a6-acf8-124fc0c5fd67": {
       "id": "f9357ed9-57b6-49a6-acf8-124fc0c5fd67",
       "position": [
-        0.0005065010672077319,
-        -0.23744283858654702,
-        -0.7764405371677228
+        0,
+        -0.02,
+        0.04
       ],
       "rotation": [
         0,
@@ -264,9 +263,9 @@
         1
       ],
       "scale": [
-        7.385882352941188,
-        8.200000000000005,
-        7.729411764705885
+        7.5,
+        7.5,
+        7.5
       ],
       "parentId": "93db3a7c-6685-4c13-8084-ef8add915ecf",
       "components": {},
@@ -278,234 +277,10 @@
         "animationClip": "",
         "loop": true
       },
-      "name": "OAsisNEW.glb",
-      "order": -1.0949821516713323
-    },
-    "0c777776-bfed-469a-9ad9-4cacf3c40c27": {
-      "id": "0c777776-bfed-469a-9ad9-4cacf3c40c27",
-      "position": [
-        0.8978546702376874,
-        0.28106682929910143,
-        -0.1683078999838754
-      ],
-      "rotation": [
-        3.469446951953615e-18,
-        -1.0408340855860846e-17,
-        -3.035766082959413e-18,
-        1
-      ],
-      "scale": [
-        0.9999999999999999,
-        0.9999999999999998,
-        0.9999999999999999
-      ],
-      "geometry": {
-        "type": "plane",
-        "width": 0.5,
-        "height": 0.2
-      },
-      "material": {
-        "type": "basic",
-        "color": "#ffffff",
-        "side": "front",
-        "depthTest": true,
-        "depthWrite": true,
-        "textureSrc": {
-          "type": "asset",
-          "asset": "assets/Expert.png"
-        },
-        "opacity": 1,
-        "opacityMap": "",
-        "blending": "normal",
-        "repeatX": 1,
-        "repeatY": 1,
-        "offsetX": 0,
-        "offsetY": 0,
-        "wireframe": false,
-        "forceTransparent": false,
-        "roughness": 0.5,
-        "metalness": 0.5,
-        "emissiveIntensity": 0,
-        "roughnessMap": "",
-        "metalnessMap": "",
-        "emissiveMap": "",
-        "emissiveColor": "#ffffff"
-      },
-      "parentId": "7a0827c0-51b7-42ba-8081-309452015504",
-      "components": {},
-      "name": "Empty Object",
-      "order": -1.0465920748841013,
-      "hidden": true
-    },
-    "92fb244d-e034-461c-8698-f72d53787fee": {
-      "id": "92fb244d-e034-461c-8698-f72d53787fee",
-      "position": [
-        -0.2101558893918991,
-        -0.9888798594474792,
-        -0.13074387609958737
-      ],
-      "rotation": [
-        -7.80625564189563e-18,
-        1.3877787807814454e-17,
-        -1.0842021724855044e-18,
-        1
-      ],
-      "scale": [
-        1,
-        1,
-        1.0000000000000002
-      ],
+      "name": "OasisNEW.glb",
+      "order": -1.0949821516713323,
       "geometry": null,
-      "material": null,
-      "parentId": "0c777776-bfed-469a-9ad9-4cacf3c40c27",
-      "components": {},
-      "name": "UI Element"
-    },
-    "a1b2fe5a-083e-43bd-91c8-b99ab4fcf7d5": {
-      "id": "a1b2fe5a-083e-43bd-91c8-b99ab4fcf7d5",
-      "position": [
-        -0.9678133913338747,
-        0.21111294424040983,
-        -0.006995216977885292
-      ],
-      "rotation": [
-        6.93889390390723e-18,
-        -1.1709383462843448e-17,
-        -3.876022766635678e-18,
-        1
-      ],
-      "scale": [
-        1.0000000000000002,
-        1,
-        0.9999999999999999
-      ],
-      "geometry": {
-        "type": "plane",
-        "width": 0.5,
-        "height": 0.2
-      },
-      "material": {
-        "type": "basic",
-        "color": "#ffffff",
-        "side": "front",
-        "depthTest": true,
-        "depthWrite": true,
-        "textureSrc": {
-          "type": "asset",
-          "asset": "assets/Expert.png"
-        },
-        "opacity": 1,
-        "opacityMap": "",
-        "blending": "normal",
-        "repeatX": 1,
-        "repeatY": 1,
-        "offsetX": 0,
-        "offsetY": 0,
-        "wireframe": false,
-        "forceTransparent": false,
-        "roughness": 0.5,
-        "metalness": 0.5,
-        "emissiveIntensity": 0,
-        "roughnessMap": "",
-        "metalnessMap": "",
-        "emissiveMap": "",
-        "emissiveColor": "#ffffff"
-      },
-      "parentId": "7a0827c0-51b7-42ba-8081-309452015504",
-      "components": {},
-      "name": "Empty Object (1)",
-      "order": -1.0465920748841013,
-      "ui": {
-        "image": {
-          "type": "asset",
-          "asset": "assets/Expert.png"
-        },
-        "backgroundSize": "contain"
-      },
-      "hidden": true
-    },
-    "80270090-4486-4298-a8b9-661981611a60": {
-      "id": "80270090-4486-4298-a8b9-661981611a60",
-      "position": [
-        -0.2101558893918991,
-        -0.9888798594474792,
-        -0.13074387609958737
-      ],
-      "rotation": [
-        -7.80625564189563e-18,
-        1.3877787807814454e-17,
-        -1.0842021724855044e-18,
-        1
-      ],
-      "scale": [
-        1,
-        1,
-        1.0000000000000002
-      ],
-      "geometry": null,
-      "material": null,
-      "parentId": "a1b2fe5a-083e-43bd-91c8-b99ab4fcf7d5",
-      "components": {},
-      "name": "UI Element (1)",
-      "order": 0.025070176746509132
-    },
-    "72d525f7-357f-4688-8713-27e5f8f809e1": {
-      "id": "72d525f7-357f-4688-8713-27e5f8f809e1",
-      "position": [
-        0.0225421467408803,
-        2.9627399782496786,
-        0.7698671779405991
-      ],
-      "rotation": [
-        2.0816681711721688e-17,
-        -1.0691058840368783e-50,
-        -3.794707603699266e-18,
-        1
-      ],
-      "scale": [
-        1,
-        0.25,
-        0.25
-      ],
-      "geometry": {
-        "type": "plane",
-        "width": 1.5,
-        "height": 1.5
-      },
-      "material": {
-        "type": "basic",
-        "color": "#ffffff",
-        "textureSrc": {
-          "type": "asset",
-          "asset": "assets/Reminder3b.png"
-        },
-        "side": "double",
-        "blending": "normal",
-        "roughness": 0.5,
-        "metalness": 0.5,
-        "opacity": 1,
-        "emissiveIntensity": 0,
-        "roughnessMap": "",
-        "metalnessMap": "",
-        "opacityMap": "",
-        "emissiveMap": "",
-        "emissiveColor": "#ffffff",
-        "repeatX": 1,
-        "repeatY": 1,
-        "offsetX": 0,
-        "offsetY": 0,
-        "depthTest": true,
-        "depthWrite": true,
-        "wireframe": false,
-        "forceTransparent": false
-      },
-      "components": {},
-      "name": "Plane",
-      "order": 0.7059982439285579,
-      "shadow": {
-        "castShadow": true
-      },
-      "hidden": true
+      "material": null
     }
   },
   "runtimeVersion": {
