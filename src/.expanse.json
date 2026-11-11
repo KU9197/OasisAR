@@ -273,12 +273,12 @@
       "gltfModel": {
         "src": {
           "type": "asset",
-          "asset": "assets/black_sunglasses.glb"
+          "asset": "assets/OasisNEW.glb"
         },
         "animationClip": "",
         "loop": true
       },
-      "name": "ray-ban_sunglasses.glb",
+      "name": "OAsisNEW.glb",
       "order": -1.0949821516713323
     },
     "0c777776-bfed-469a-9ad9-4cacf3c40c27": {
